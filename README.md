@@ -3,7 +3,7 @@
 Simple PE Explorer That List All The Sections and Adresses
 
 # HOW TO USE
-• Make A Folder Put The PE in It </br>
+• Put The PE In A Specific Folder
 • Launch The PE Explorer</br>
 • Enter The Target PE Name</br>
 
