@@ -1,6 +1,6 @@
 # PE Explorer
 
-Simple PE Explorer Made In C++ That List All The Section And Adresses 
+Simple PE Explorer That List All The Sections and Adresses
 
 # HOW TO USE
 • Make A Folder Put The PE in It </br>
